@@ -1,0 +1,15 @@
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\bin\Debug\net7.0\Projeto.exe
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\bin\Debug\net7.0\Projeto.deps.json
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\bin\Debug\net7.0\Projeto.runtimeconfig.json
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\bin\Debug\net7.0\Projeto.dll
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\bin\Debug\net7.0\Projeto.pdb
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.csproj.AssemblyReference.cache
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.dll
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\refint\Projeto.dll
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.pdb
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\Projeto.genruntimeconfig.cache
+D:\Users\nicol\Desktop\projeto-final-Metioflar-main\Projeto\obj\Debug\net7.0\ref\Projeto.dll
