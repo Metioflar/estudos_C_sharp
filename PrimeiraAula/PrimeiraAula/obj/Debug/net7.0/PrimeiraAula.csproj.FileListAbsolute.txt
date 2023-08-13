@@ -1,0 +1,15 @@
+D:\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+D:\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+D:\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+D:\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+D:\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.AssemblyReference.cache
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+D:\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
